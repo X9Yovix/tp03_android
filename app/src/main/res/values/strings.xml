@@ -1,0 +1,14 @@
+<resources>
+    <string name="app_name">TP04</string>
+    <string name="id_login">Inserer identifiant</string>
+    <string name="password">Inserer Password</string>
+    <string name="login">Login</string>
+    <string name="connected_user">Utilisateur connecté est: </string>
+    <string name="detail_activity">Details Activity</string>
+    <string name="logout">Logout</string>
+    <string name="libelle">Libelle About</string>
+    <string name="ok">OK</string>
+    <string name="username_log">Username</string>
+    <string name="passord_log">Password</string>
+    <string name="img_log">Logo</string>
+</resources>
